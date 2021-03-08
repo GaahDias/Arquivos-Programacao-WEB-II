@@ -1,0 +1,19 @@
+<! DOCTYPE HTML>
+<html lang="pt-br"> <!-- indicando a linguagem que iremos usar no codigo html -->
+<head>
+<title>Minha Loja</title>
+<meta charset="utf-8"> <!-- indicando o sistema de caractere utf-8 -->
+
+<!--
+	o nosso site será responsivo, para isto precisaremos usar uma metatag
+	que irá conter informações da viewport(area que o site aparece no browser)
+	Na viewport informaremos que a largura sera = a largura da janela
+    do meu navegador (Browser), seja em um tablet ou celular.
+ -->
+
+
+</head>
+<body>
+
+</body>
+</html>

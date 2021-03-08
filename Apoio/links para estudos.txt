@@ -1,0 +1,32 @@
+15/05/2020 jumbotron
+
+w3schools
+https://www.w3schools.com/bootstrap4/bootstrap_jumbotron.asp
+
+bootstrap
+https://getbootstrap.com.br/docs/4.1/components/jumbotron/
+
+
+
+container
+
+w3schools
+https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp
+
+bootstrap
+https://getbootstrap.com.br/docs/4.1/layout/grid/
+
+
+Curso MySQL #04 - Melhorando a Estrutura do Banco de Dados
+https://www.youtube.com/watch?v=cHLKtALWDos&t=1427s
+
+-----------------------------------------------------------------------
+08/05/2020  Navbar como funciona
+
+w3schools
+
+https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+
+bootstrap
+
+https://getbootstrap.com.br/docs/4.1/components/navbar/
