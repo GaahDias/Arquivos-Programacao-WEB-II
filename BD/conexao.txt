@@ -1,0 +1,2 @@
+ CREATE USER 'ead'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+ GRANT ALL PRIVILEGES ON db_ead.* TO 'ead'@'localhost' WITH GRANT OPTION;
