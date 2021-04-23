@@ -1,0 +1,19 @@
+livro MongoDB
+
+MongoDB Construa novas aplicações com novas tecnologias
+978-85-5519-043-8
+Dados
+Fernando Boaglio
+224
+69,90
+50
+<p>
+O modelo dos bancos de dados relacionais já existe há muitos anos. No entanto, cada vez mais as aplicações modernas precisam aliar alta escalabilidade com suporte a persistência de alta quantidade de informações, e é justamente por isso que o modelo relacional começa a deixar a desejar e as alternativas NOSQL passam a surgir.
+</p>
+<p>
+Atingir alta escalabilidade com bancos de dados relacionais exige infraestruturas caríssimas, que podem ser evitadas com outros paradigmas. É aí que entra o MongoDB, famoso banco de dados orientado a documentos, desenvolvido pela 10gen e principal alternativa para aliar a alta escalabilidade com facilidade de uso.	
+</p>
+<p>
+Nesse livro, Fernando Boaglio vai ensiná-lo como trabalhar com o MongoDB, principal banco de dados orientado a documentos do mercado. Com ele é possível desenvolver aplicações que atingem alta escalabilidade e de forma tão simples quanto trabalhar com os tradicionais banco de dados relacionais.
+</p>
+sim
