@@ -35,7 +35,7 @@
 	session_start(); // iniciando sessão
 	
 	// verificando se usuário está logado
-	if(empty($_SESSION['Status']){
+	if(empty($_SESSION['ID']){
 		
 		header('location:formlogon.php'); // enviando para formlogon.php
 		
